@@ -87,7 +87,7 @@ Replace `'engine_id'` with the appropriate engine ID for each method call.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mael-ha/stability_ai.
+Bug reports and pull requests are welcome on GitHub at https://github.com/x-maelus/stability_ai.
 
 ## License
 
